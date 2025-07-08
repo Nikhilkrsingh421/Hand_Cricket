@@ -1,4 +1,4 @@
-# Hand Cricket Game 🏏
+# Hand Cricket 🏏
 
 ## Description
 Hand Cricket is an innovative computer vision-based game that brings the classic cricket experience to your computer! Using your webcam, the game detects hand gestures to play cricket in a fun and interactive way. This project combines computer vision technology with the excitement of cricket, making it accessible and enjoyable for everyone.
